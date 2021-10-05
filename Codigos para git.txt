@@ -1,3 +1,7 @@
+3Codigos para o Git
+
+## Fazer o primeiro commit 
+
 Git status
 
 Git init
@@ -6,4 +10,19 @@ Git add .
 
 Git commit -m " @ "
 
-git push origin main
+Git remote add origin link
+
+git push --set-upstream origin master
+
+## Fazer alguma atualização
+
+Git status
+
+Git init
+
+Git add . 
+
+Git commit -m " nova função "
+
+Git push
+
