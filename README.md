@@ -1,2 +1,5 @@
-# Dio-Desafio-Github
-Criando um repositório no GitHub, do curso "Criando seu primeiro Repositório no GitHub para Compartilhar seu Progresso" do Bootcamp "Eduzz Fullstack Developer" da Digital Innovation One.
+# Repositório do curso "Criando seu primeiro Repositório no GitHub para Compartilhar seu Progresso"
+
+##Link's Importantes:
+
+[Basic Syntax](https://www.markdownguide.org/basic-syntax/)
